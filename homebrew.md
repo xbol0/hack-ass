@@ -6,7 +6,7 @@
 
 ## 安装 & 镜像源
 
-中科大源
+[中科大源](https://mirrors.ustc.edu.cn/help/index.html)
 
 **不要用清华tuna的源，会限速！！！**
 
