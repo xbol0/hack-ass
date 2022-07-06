@@ -10,6 +10,8 @@
 
 [折腾homebrew](homebrew.md)
 
+[IPFS](ipfs.md)
+
 - [Nmap](//nmap.org) / [Zmap](//zmap.io) / [Nikto](//github.com/sullo/nikto) /
   [Masscan](//github.com/robertdavidgraham/masscan)
 - [XSSOR](https://xssor.io/)
