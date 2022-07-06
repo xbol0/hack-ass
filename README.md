@@ -16,9 +16,6 @@
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [MetaSploit](https://github.com/rapid7/metasploit-framework)
 
-- awk
-- cut
-
 ## 🚀 开发平台
 
 > [RemoteStorage](//remotestorage.io) / [Zero Data App](//0data.app) /
@@ -63,6 +60,7 @@
 - [rslocal](//localtest.rs)
 - [QRCode](//qr-code-generator.vercel.app)
 - [RSSHub](//xyz-rsshub.vercel.app)
+- [RegExr](https://regexr.com/)
 
 ## 👀 隐私相关
 
