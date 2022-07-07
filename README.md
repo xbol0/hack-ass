@@ -38,6 +38,14 @@
 - [Infura](//infura.io)
 - [IPFS](//ipfs.io)
 
+## 🦥 环境工具
+
+[嫖来的](https://github.com/wklken/vim-for-server)vimrc文件，没有插件：
+
+```shell
+curl -o ~/.vimrc -fsSL https://cdn.jsdelivr.net/gh/xbol0/hack-ass@main/vimrc
+```
+
 ## 👓 学习
 
 [Learn X in Y minutes](//learnxinyminutes.com)
