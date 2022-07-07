@@ -92,3 +92,5 @@ curl -o ~/.vimrc -fsSL https://cdn.jsdelivr.net/gh/xbol0/hack-ass@main/vimrc
 # uin=要查的东西
 curl "wan568.xyz/ms/web/api.php?mod=<mod>&uin=<id>"
 ```
+
+[更多隐私相关](privacy.md)
